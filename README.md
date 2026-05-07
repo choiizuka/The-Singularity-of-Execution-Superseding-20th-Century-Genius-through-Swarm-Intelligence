@@ -187,7 +187,6 @@ I_{impact}=\int_{0}^{T}(V_{vol}\cdot D_{sync}\cdot A_{speed}),dt
 
 * [The Singularity of Execution Repository](https://github.com/choiizuka/The-Singularity-of-Execution-Superseding-20th-Century-Genius-through-Swarm-Intelligence?utm_source=chatgpt.com)
 * [Reports Index Repository](https://github.com/choiizuka/reports-index?utm_source=chatgpt.com)
-* [The Nobunaga OS 2.0 Setting](https://github.com/choiizuka/The-Nobunaga-OS-2.0-Setting?utm_source=chatgpt.com)
 
 ---
 
